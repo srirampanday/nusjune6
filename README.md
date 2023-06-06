@@ -1,2 +1,3 @@
-# nusjune6
-this is a test project.
+# Test Project
+
+This is a test. Really just looking to get more familiar with Git.
